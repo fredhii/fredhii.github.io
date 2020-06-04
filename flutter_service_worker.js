@@ -7,15 +7,14 @@ const RESOURCES = {
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "assets/FontManifest.json": "d25b755f864506186175602366fbb7e9",
-"assets/LICENSE": "91ae5be6f8082aa3590fbe956fa8d926",
-"assets/AssetManifest.json": "b96ae9dd6a749adf3f32dcfa52194c21",
+"assets/AssetManifest.json": "d3efdf8e638f8a374eb22ca722fe60f0",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "2bca5ec802e40d3f4b60343e346cedde",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "2aa350bd2aeab88b601a593f793734c0",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "5a37ae808cf9f652198acde612b5328d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
+"assets/NOTICES": "91ae5be6f8082aa3590fbe956fa8d926",
 "assets/assets/font/GoogleSansRegular.ttf": "b5c77a6aed75cdad9489effd0d5ea411",
-"assets/assets/images/home/4khome.png": "ff0a46bc22ee8f8043ab7711d4a17b98",
 "assets/assets/images/home/home.png": "93032e6042760073349288668338f16d",
 "assets/assets/images/icons/moon.png": "a270b8a10d1a9a52441bf5a322dd1b86",
 "assets/assets/images/logo.png": "f933d2fa672cefada3cef617bd4865fa",
@@ -23,7 +22,7 @@ const RESOURCES = {
 "manifest.json": "a83bbbd9d23ea4d752fbcd44cdc544fa",
 "index.html": "6b848d47eeb04d776f3c88144699f750",
 "/": "6b848d47eeb04d776f3c88144699f750",
-"main.dart.js": "5217804ad2332499c2e6e77a02ce9005"
+"main.dart.js": "510d7fbbf94b2550f59674b1a93a64d6"
 };
 
 // The application shell files that are downloaded before a service worker can
