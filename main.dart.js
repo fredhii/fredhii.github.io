@@ -41332,7 +41332,7 @@ return B.Vc(H.b([new D.ls(t),new T.c8(t,60,t,t),new T.eH(C.L,t,t,L.jY("Hire Me",
 U.oy.prototype={
 G:function(a){return B.Vc(H.b([new D.ls(null),new U.uS(null)],u.t))}}
 U.uS.prototype={
-G:function(a){var t,s,r,q,p=null,o=U.Ja("assets/images/home/home.png",p,p,p),n=L.jY("Fredy Acu\xf1a",p,p,4),m=L.jY("Full-Stack Software Engineer, Flutter Developer\nData Analyst, Growth Hacker\nWant-To-Be Mars Explorer",K.bh(a).y2.Q,C.hu,1.5),l=u.e9,k=a.aV(l).f.d?C.k:C.j
+G:function(a){var t,s,r,q,p=null,o=U.Ja("assets/images/home.png",p,p,p),n=L.jY("Fredy Acu\xf1a",p,p,4),m=L.jY("Full-Stack Software Engineer, Flutter Developer\nData Analyst, Growth Hacker\nWant-To-Be Mars Explorer",K.bh(a).y2.Q,C.hu,1.5),l=u.e9,k=a.aV(l).f.d?C.k:C.j
 k=S.zT(R.oF(!1,!0,new N.ih(C.u2,p),p,!0,p,p,p,k,p,p,p,p,p,new U.Ge(),p),"Github")
 t=a.aV(l).f.d?C.k:C.j
 t=S.zT(R.oF(!1,!0,new N.ih(C.u4,p),p,!0,p,p,p,t,p,p,p,p,p,new U.Gf(),p),"Linkedin")
