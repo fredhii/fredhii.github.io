@@ -33,7 +33,7 @@ const RESOURCES = {
 "manifest.json": "a83bbbd9d23ea4d752fbcd44cdc544fa",
 "index.html": "6b848d47eeb04d776f3c88144699f750",
 "/": "6b848d47eeb04d776f3c88144699f750",
-"main.dart.js": "590681581eb2046d79c6a4a578778ff2"
+"main.dart.js": "2b54f954f6c829a87c668a78a0f88e27"
 };
 
 // The application shell files that are downloaded before a service worker can
