@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "44ab07f83e2e26525c932c704cd66ece",
+  "assets/AssetManifest.json": "3fbae6922562f8f9dc4d11aaa468bfe1",
 "assets/assets/font/GoogleSansRegular.ttf": "b5c77a6aed75cdad9489effd0d5ea411",
 "assets/assets/images/cat.png": "ae2e9b3534054cc78e136ea257c749b8",
 "assets/assets/images/hire-photo.jpg": "0e9799a7d6951b7a56a1ab9d664fc0eb",
@@ -13,7 +13,7 @@ const RESOURCES = {
 "assets/assets/images/p_0_sentiment_desktop.jpg": "4b248e6558f011d3df61ef50ef9e3e6c",
 "assets/assets/images/p_10_daily_routines_d.png": "0a30851b402e3c2fac1bfdbdd72d1e8a",
 "assets/assets/images/p_11_egg_catcher_d.gif": "740f13fb2b9f125a7e8018e2adc9563f",
-"assets/assets/images/p_12_nulltagram.PNG": "50baafd3d752ddb6713acbada5ef6187",
+"assets/assets/images/p_12_nulltagram.png": "50baafd3d752ddb6713acbada5ef6187",
 "assets/assets/images/p_1_backend_dashboard_d.png": "c326207115f06ed5789a7b10bca9f19f",
 "assets/assets/images/p_2_frontend_dashboard_d.png": "0ddb39db24a84a887e8e873604db305c",
 "assets/assets/images/p_3_raise_d.gif": "2805655067f4256f6edf0a131be5a94c",
@@ -32,8 +32,8 @@ const RESOURCES = {
 "favicon.png": "f933d2fa672cefada3cef617bd4865fa",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "1b9b73fcc1561560228c972ebe669f42",
-"/": "1b9b73fcc1561560228c972ebe669f42",
+"index.html": "4f21ed005903a7f0fcb57da77f9582b9",
+"/": "4f21ed005903a7f0fcb57da77f9582b9",
 "main.dart.js": "cd61be661f65a90a5958cfaee59a641a",
 "manifest.json": "5a2c0526f1fe73e6f211bc7a9d15c210",
 "version.json": "426313f2f3133c2f20415344c4a22df3"
